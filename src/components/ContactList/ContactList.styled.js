@@ -15,7 +15,7 @@ export const ItemWrapper = styled.div`
   display: flex;
   gap: 15px;
   align-items: baseline;
-  width: 400px;
+  width: 500px;
 
   justify-content: space-between;
 `;
